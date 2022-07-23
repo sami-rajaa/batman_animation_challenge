@@ -1,20 +1,19 @@
 # batman_animation_challenge
 
-A new Flutter project.
+Show some 💖 and star the repo to support the project.
 
-## Getting Started
+## **NOTE**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Hey, I have done this aninmation advanced batman animation challenge in flutter
+Hey, I have done this advanced batman animation challenge in flutter
 If you want to download the code, fork the repository.
 PEACE!
+
+## Screen Recording
+https://user-images.githubusercontent.com/47925737/180605526-bf27780e-f98a-4d18-a5de-29cf7621954d.mp4
+
+
+
+
+
+
+
